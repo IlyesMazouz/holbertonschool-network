@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash/env bash
 #this is a bash script that displays the listening ports and their corresponding PID and program name
 
-netstat -a
+ss -tlnp
