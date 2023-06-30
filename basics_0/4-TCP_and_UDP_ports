@@ -1,4 +1,4 @@
-#!/bin/bash/env bash
+#!/usr/bin/env bash
 #this is a bash script that displays the listening ports and their corresponding PID and program name
 
 ss -tlnp
